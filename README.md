@@ -1,4 +1,5 @@
 ![Pitney Bowes](/PitneyBowes_Logo.jpg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmaxmckone7%2FIdentifySDK-JavaScript.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmaxmckone7%2FIdentifySDK-JavaScript?ref=badge_shield)
 
 # Pitney Bowes Identify API
 
@@ -43,3 +44,7 @@ Please update IdentifySDK-JavaScript Test cases with AccessToken to execute them
 * jQuery, version number 2.2.0 which is licensed under MIT license.  The license can be downloaded from https://jquery.org/license/.  The source code for this software is available from https://jquery.org/.
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmaxmckone7%2FIdentifySDK-JavaScript.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmaxmckone7%2FIdentifySDK-JavaScript?ref=badge_large)
